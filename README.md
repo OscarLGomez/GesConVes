@@ -20,7 +20,7 @@ El repositorio contiene los siguientes archivos y documentación relevante:
 - 📄 **README.md** → Información del proyecto.
 
 ## 🔧 **Instalación y Configuración**
-1. **Descargar** y **descomprimir** el archivo ZIP con el código de PowerApps.
+1. **Descargar** el archivo ZIP con el código de PowerApps.
 2. **Importar** la aplicación **GesConvEs** en Microsoft Power Apps.
 3. **Crear** las listas de SharePoint siguiendo la guía proporcionada.
 4. **Configurar** permisos en **Power Apps** y **SharePoint** para garantizar el acceso a los usuarios correspondientes.
