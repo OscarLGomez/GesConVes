@@ -25,8 +25,11 @@ El repositorio contiene los siguientes archivos y documentación relevante:
 4. **Configurar** permisos en **Power Apps** y **SharePoint** para garantizar el acceso a los usuarios correspondientes.
 5. **Habilitar** Microsoft Outlook para el envío de correos electrónicos de notificación.
 
-## 📄 **Licencia**
-Este proyecto está bajo la licencia **MIT**, lo que permite su uso y modificación con fines educativos.
+## 📄 Licencia
+Este proyecto está licenciado bajo la **GNU General Public License v3.0 (GPL-3.0)**.  
+Cualquier persona es libre de usar, modificar y distribuir este software, pero cualquier trabajo derivado **debe mantenerse bajo la misma licencia GPL-3.0**.  
+
+Para más detalles visita [GNU GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 
 ## 📩 **Contacto**
 Para consultas, contacta a [perfil de GitHub](https://github.com/OscarLGomez).
