@@ -14,7 +14,7 @@ Este proyecto ha sido desarrollado como parte del **Trabajo de Fin de Grado (TFG
 ## 📂 **Estructura del repositorio**
 El repositorio contiene los siguientes archivos y documentación relevante:
 
-- 📂 **/src** → Archivo ZIP con el código fuente de Power Apps.
+- 📦 **GesConvEs_20250310175251.zip** → Archivo ZIP con la programación de PowerApps.
 - 📄 **Guia_Creacion_Listas_SharePoint.pdf** → Instrucciones para configurar las listas de datos en SharePoint.
 - 📄 **LICENSE** → Archivo de licencia del proyecto (**GPL-3.0**).
 - 📄 **README.md** → Información del proyecto.
