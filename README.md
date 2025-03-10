@@ -20,11 +20,11 @@ El repositorio contiene los siguientes archivos y documentación relevante:
 - 📄 **README.md** → Información del proyecto.
 
 ## 🔧 **Instalación y Configuración**
-1. **Descargar** el archivo ZIP con el código de PowerApps.
-2. **Importar** la aplicación **GesConvEs** en Microsoft Power Apps.
-3. **Crear** las listas de SharePoint siguiendo la guía proporcionada.
+1. **Crear** las listas de SharePoint siguiendo la guía proporcionada.
+2. **Descargar** el archivo ZIP con el código de PowerApps.
+3. **Importar** la aplicación **GesConvEs** en Microsoft Power Apps(asigna las conexiones necesarias -SharePoint, Outlook)
 4. **Configurar** permisos en **Power Apps** y **SharePoint** para garantizar el acceso a los usuarios correspondientes.
-5. **Habilitar** Microsoft Outlook para el envío de correos electrónicos de notificación.
+5. **Habilitar** (si fuera necesario) Microsoft Outlook para el envío de correos electrónicos de notificación.
 
 ## 📄 Licencia
 Este proyecto está licenciado bajo la **GNU General Public License v3.0 (GPL-3.0)**.  
